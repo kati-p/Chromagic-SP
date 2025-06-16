@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3830cbaef0d4cd54992c8241f81a7b28, type: 3}
+  m_Name: ChainsawWood_1
+  m_EditorClassIdentifier: 
+  characterName: Chainsaw Wood
+  startedHealthPower: 3000
+  magics:
+  - {fileID: 11400000, guid: 9626000c918778f46a675c82518b1180, type: 2}
+  - {fileID: 11400000, guid: cf0b7de3dc95ee04aa5145abee8cc6e8, type: 2}
+  - {fileID: 11400000, guid: 25e062f3466a37e4696c09d0b86bfb29, type: 2}
+  - {fileID: 11400000, guid: ba210984f9d2a8d429265e47738b6c86, type: 2}
+  - {fileID: 11400000, guid: 379495bbc041b0d448ced4a38ccd4c6f, type: 2}
+  - {fileID: 11400000, guid: f8c38afcff20e6a48b1940358d1a1cef, type: 2}
+  - {fileID: 11400000, guid: 5d437f056f796a3418b9875167d51d28, type: 2}
+  - {fileID: 11400000, guid: 7885dfaff5e32a543a2ab5d891d85598, type: 2}
+  - {fileID: 11400000, guid: 4e18d189f437e064590519c07c42880c, type: 2}
+  - {fileID: 11400000, guid: 3c8c2696e2d07c54184c5a29acac98c3, type: 2}
+  magicPower: 50
+  magicDefense: 50
+  speed: 40
+  characterBattleAnimatorController: {fileID: 9100000, guid: c8c2fd4844ae3014a95030c75c5f9b71, type: 2}
+  enemyId: wls1
+  statements: []
+  enemyTheme: {fileID: 8300000, guid: 42643730b93c64246baa80c2a590c509, type: 3}
+  playerStatLevelUpWhenWon:
+    increaseStartedHP: 200
+    increaseMP: 20
+    increaseMD: 20
+    increaseSPD: 20

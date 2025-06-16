@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3830cbaef0d4cd54992c8241f81a7b28, type: 3}
+  m_Name: Mushroom_1
+  m_EditorClassIdentifier: 
+  characterName: Mushroom
+  startedHealthPower: 600
+  magics:
+  - {fileID: 11400000, guid: 43fed95ea74fe0d4f900bf615431e77a, type: 2}
+  - {fileID: 11400000, guid: 25e062f3466a37e4696c09d0b86bfb29, type: 2}
+  - {fileID: 11400000, guid: ba210984f9d2a8d429265e47738b6c86, type: 2}
+  magicPower: 20
+  magicDefense: 5
+  speed: 10
+  characterBattleAnimatorController: {fileID: 9100000, guid: d6fa99fd9430ec6498cf2f6dfd9804b2, type: 2}
+  enemyId: msr1
+  statements: []
+  enemyTheme: {fileID: 8300000, guid: 06db341b03c52eb43af42879908139cc, type: 3}
+  playerStatLevelUpWhenWon:
+    increaseStartedHP: 50
+    increaseMP: 10
+    increaseMD: 0
+    increaseSPD: 5

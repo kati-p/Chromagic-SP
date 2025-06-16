@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3830cbaef0d4cd54992c8241f81a7b28, type: 3}
+  m_Name: Mushdog_1
+  m_EditorClassIdentifier: 
+  characterName: Mushdog
+  startedHealthPower: 1500
+  magics:
+  - {fileID: 11400000, guid: 3c8c2696e2d07c54184c5a29acac98c3, type: 2}
+  - {fileID: 11400000, guid: 4e18d189f437e064590519c07c42880c, type: 2}
+  - {fileID: 11400000, guid: 6c3fb69f6c8db0a4aa3ca1fa8ff794d8, type: 2}
+  - {fileID: 11400000, guid: ba210984f9d2a8d429265e47738b6c86, type: 2}
+  - {fileID: 11400000, guid: 43fed95ea74fe0d4f900bf615431e77a, type: 2}
+  magicPower: 30
+  magicDefense: 15
+  speed: 20
+  characterBattleAnimatorController: {fileID: 9100000, guid: 653e517d0e2da2a4a95a5da32482e568, type: 2}
+  enemyId: md1
+  statements: []
+  enemyTheme: {fileID: 8300000, guid: 06db341b03c52eb43af42879908139cc, type: 3}
+  playerStatLevelUpWhenWon:
+    increaseStartedHP: 100
+    increaseMP: 15
+    increaseMD: 5
+    increaseSPD: 10

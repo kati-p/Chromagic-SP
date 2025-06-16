@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3830cbaef0d4cd54992c8241f81a7b28, type: 3}
+  m_Name: A_1
+  m_EditorClassIdentifier: 
+  characterName: A
+  startedHealthPower: 5000
+  magics:
+  - {fileID: 11400000, guid: ba343ba14e1d4b145bfa60282cf81e69, type: 2}
+  - {fileID: 11400000, guid: ec61d64ba45a26e4ea7e80b63f661073, type: 2}
+  - {fileID: 11400000, guid: 06e7027e9d191d64baa8cc6486e4fdf9, type: 2}
+  - {fileID: 11400000, guid: 43fed95ea74fe0d4f900bf615431e77a, type: 2}
+  - {fileID: 11400000, guid: 14c6c15d3469e7845b23b8eef2ed6fe9, type: 2}
+  - {fileID: 11400000, guid: cb72f78bee324a14cbee22a36177046b, type: 2}
+  - {fileID: 11400000, guid: 854f4445b57ffb64a9982dd859a5bacd, type: 2}
+  - {fileID: 11400000, guid: 173a1e8f56352ce4b9c6765db983fb4d, type: 2}
+  - {fileID: 11400000, guid: dedf836f48d208f42b2e45ad6823c54d, type: 2}
+  - {fileID: 11400000, guid: 236754dcf8360b74d9046b6d16d294f0, type: 2}
+  - {fileID: 11400000, guid: 2121a97641d271d4f8f6d2885ec954a1, type: 2}
+  - {fileID: 11400000, guid: f0244451cf11ad24aa9022f81ba88564, type: 2}
+  magicPower: 80
+  magicDefense: 5
+  speed: 80
+  characterBattleAnimatorController: {fileID: 9100000, guid: ee32d668ea1f8c24b8dc5eaa4035cd36, type: 2}
+  enemyId: a1
+  statements: []
+  enemyTheme: {fileID: 8300000, guid: 14f33d4137ae8dd4881c388e0bf388db, type: 3}
+  playerStatLevelUpWhenWon:
+    increaseStartedHP: 500
+    increaseMP: 50
+    increaseMD: 50
+    increaseSPD: 50

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3830cbaef0d4cd54992c8241f81a7b28, type: 3}
+  m_Name: Slime_1
+  m_EditorClassIdentifier: 
+  characterName: Slime
+  startedHealthPower: 600
+  magics:
+  - {fileID: 11400000, guid: 14c6c15d3469e7845b23b8eef2ed6fe9, type: 2}
+  - {fileID: 11400000, guid: cf0b7de3dc95ee04aa5145abee8cc6e8, type: 2}
+  magicPower: 5
+  magicDefense: 20
+  speed: 1
+  characterBattleAnimatorController: {fileID: 9100000, guid: 3d3134b81ccb5f64dbbe2c2b47ea2451, type: 2}
+  enemyId: slm1
+  statements: []
+  enemyTheme: {fileID: 8300000, guid: 06db341b03c52eb43af42879908139cc, type: 3}
+  playerStatLevelUpWhenWon:
+    increaseStartedHP: 50
+    increaseMP: 5
+    increaseMD: 5
+    increaseSPD: 5

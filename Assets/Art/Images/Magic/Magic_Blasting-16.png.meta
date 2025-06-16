@@ -1,0 +1,2444 @@
+fileFormatVersion: 2
+guid: 40f40e79905114747be731f091b69f90
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -95652479185689099
+    second: Magic_Blasting-16_0
+  - first:
+      213: -5732867455409718253
+    second: Magic_Blasting-16_1
+  - first:
+      213: 5651661257497592706
+    second: Magic_Blasting-16_2
+  - first:
+      213: 9018801160134984195
+    second: Magic_Blasting-16_3
+  - first:
+      213: 1524540273029159316
+    second: Magic_Blasting-16_4
+  - first:
+      213: -3069899628572425268
+    second: Magic_Blasting-16_5
+  - first:
+      213: -4060813854552236086
+    second: Magic_Blasting-16_6
+  - first:
+      213: 9026314602325070952
+    second: Magic_Blasting-16_7
+  - first:
+      213: -4400102120958831073
+    second: Magic_Blasting-16_8
+  - first:
+      213: 2802738805704348478
+    second: Magic_Blasting-16_9
+  - first:
+      213: -2194688926940327263
+    second: Magic_Blasting-16_10
+  - first:
+      213: 3913664525025287113
+    second: Magic_Blasting-16_11
+  - first:
+      213: 8691414699504371311
+    second: Magic_Blasting-16_12
+  - first:
+      213: -7824594209117666678
+    second: Magic_Blasting-16_13
+  - first:
+      213: 6054619748057210522
+    second: Magic_Blasting-16_14
+  - first:
+      213: 7150729108017919745
+    second: Magic_Blasting-16_15
+  - first:
+      213: 2411578879026884145
+    second: Magic_Blasting-16_16
+  - first:
+      213: 3369376991617827646
+    second: Magic_Blasting-16_17
+  - first:
+      213: 3086116228489467746
+    second: Magic_Blasting-16_18
+  - first:
+      213: -1423158935301283713
+    second: Magic_Blasting-16_19
+  - first:
+      213: 3147033624478400943
+    second: Magic_Blasting-16_20
+  - first:
+      213: 859996115808262724
+    second: Magic_Blasting-16_21
+  - first:
+      213: -4316687441111505324
+    second: Magic_Blasting-16_22
+  - first:
+      213: 2004088792785851774
+    second: Magic_Blasting-16_23
+  - first:
+      213: -6956478917322975726
+    second: Magic_Blasting-16_24
+  - first:
+      213: 2535539193567462106
+    second: Magic_Blasting-16_25
+  - first:
+      213: 7996690752622866321
+    second: Magic_Blasting-16_26
+  - first:
+      213: -7330180818993736251
+    second: Magic_Blasting-16_27
+  - first:
+      213: -4898040765071101719
+    second: Magic_Blasting-16_28
+  - first:
+      213: 3206741690572562487
+    second: Magic_Blasting-16_29
+  - first:
+      213: -615626765197270492
+    second: Magic_Blasting-16_30
+  - first:
+      213: -6585051366615142584
+    second: Magic_Blasting-16_31
+  - first:
+      213: 3847119390813686604
+    second: Magic_Blasting-16_32
+  - first:
+      213: 1243807246892392011
+    second: Magic_Blasting-16_33
+  - first:
+      213: -1096468001079163422
+    second: Magic_Blasting-16_34
+  - first:
+      213: 7906927715459805855
+    second: Magic_Blasting-16_35
+  - first:
+      213: 1790521624330324417
+    second: Magic_Blasting-16_36
+  - first:
+      213: -9215068097073671172
+    second: Magic_Blasting-16_37
+  - first:
+      213: -6847614719051229814
+    second: Magic_Blasting-16_38
+  - first:
+      213: 3429178339097242113
+    second: Magic_Blasting-16_39
+  - first:
+      213: 4163923098023744731
+    second: Magic_Blasting-16_40
+  - first:
+      213: -7524990338599594230
+    second: Magic_Blasting-16_41
+  - first:
+      213: 4982218701454425803
+    second: Magic_Blasting-16_42
+  - first:
+      213: -6023549367754927580
+    second: Magic_Blasting-16_43
+  - first:
+      213: 1373140773102233062
+    second: Magic_Blasting-16_44
+  - first:
+      213: -689558020052319522
+    second: Magic_Blasting-16_45
+  - first:
+      213: -3317321869548899750
+    second: Magic_Blasting-16_46
+  - first:
+      213: 3117892968836436915
+    second: Magic_Blasting-16_47
+  - first:
+      213: -3630538347154702906
+    second: Magic_Blasting-16_48
+  - first:
+      213: -4254301720322072932
+    second: Magic_Blasting-16_49
+  - first:
+      213: -6997404280880509905
+    second: Magic_Blasting-16_50
+  - first:
+      213: 1873976747443887060
+    second: Magic_Blasting-16_51
+  - first:
+      213: 6404204886256540014
+    second: Magic_Blasting-16_52
+  - first:
+      213: 8886624366325250882
+    second: Magic_Blasting-16_53
+  - first:
+      213: -7657124124806029859
+    second: Magic_Blasting-16_54
+  - first:
+      213: 3559817315664382132
+    second: Magic_Blasting-16_55
+  - first:
+      213: 7142952468549507671
+    second: Magic_Blasting-16_56
+  - first:
+      213: -2816150418358474841
+    second: Magic_Blasting-16_57
+  - first:
+      213: 1644986206331888713
+    second: Magic_Blasting-16_58
+  - first:
+      213: 5900856031123735994
+    second: Magic_Blasting-16_59
+  - first:
+      213: -34637608752178344
+    second: Magic_Blasting-16_60
+  - first:
+      213: -5713084348566060663
+    second: Magic_Blasting-16_61
+  - first:
+      213: -5159298660311154105
+    second: Magic_Blasting-16_62
+  - first:
+      213: 2004504902758036817
+    second: Magic_Blasting-16_63
+  - first:
+      213: -7482763114159198447
+    second: Magic_Blasting-16_64
+  - first:
+      213: -8996478910433956990
+    second: Magic_Blasting-16_65
+  - first:
+      213: 2666866377233045493
+    second: Magic_Blasting-16_66
+  - first:
+      213: 3519354003638040220
+    second: Magic_Blasting-16_67
+  - first:
+      213: 600361731328998461
+    second: Magic_Blasting-16_68
+  - first:
+      213: -6541689662884186323
+    second: Magic_Blasting-16_69
+  - first:
+      213: 387840940963199762
+    second: Magic_Blasting-16_70
+  - first:
+      213: 8380101412990486723
+    second: Magic_Blasting-16_71
+  - first:
+      213: 7721032213822540335
+    second: Magic_Blasting-16_72
+  - first:
+      213: -2426948335394869100
+    second: Magic_Blasting-16_73
+  - first:
+      213: 8705306213815271829
+    second: Magic_Blasting-16_74
+  - first:
+      213: 4128450214710711032
+    second: Magic_Blasting-16_75
+  - first:
+      213: 1620498595840016996
+    second: Magic_Blasting-16_76
+  - first:
+      213: -3596928844933021404
+    second: Magic_Blasting-16_77
+  - first:
+      213: -2421461648543533755
+    second: Magic_Blasting-16_78
+  - first:
+      213: 2613185186430529590
+    second: Magic_Blasting-16_79
+  - first:
+      213: 2510443383118464627
+    second: Magic_Blasting-16_80
+  - first:
+      213: -843124698265513386
+    second: Magic_Blasting-16_81
+  - first:
+      213: 741226819444650502
+    second: Magic_Blasting-16_82
+  - first:
+      213: -6961171120419714071
+    second: Magic_Blasting-16_83
+  - first:
+      213: 3411227221349471783
+    second: Magic_Blasting-16_84
+  - first:
+      213: 4097257033835234714
+    second: Magic_Blasting-16_85
+  - first:
+      213: -6610630489338463016
+    second: Magic_Blasting-16_86
+  - first:
+      213: -7822427226295083312
+    second: Magic_Blasting-16_87
+  - first:
+      213: 9038685155653969130
+    second: Magic_Blasting-16_88
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Magic_Blasting-16_0
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 28
+        width: 1816
+        height: 1399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f56044b39c2caef0800000000000000
+      internalID: -95652479185689099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_1
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 1421
+        width: 63
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31cf7ef5c63c070b0800000000000000
+      internalID: -5732867455409718253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_2
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1406
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2834bfb48fbbe6e40800000000000000
+      internalID: 5651661257497592706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_3
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 1410
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3020ab91fd7392d70800000000000000
+      internalID: 9018801160134984195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_4
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 1397
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4991eab0d41482510800000000000000
+      internalID: 1524540273029159316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_5
+      rect:
+        serializedVersion: 2
+        x: 2179
+        y: 623
+        width: 60
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc346d68d868565d0800000000000000
+      internalID: -3069899628572425268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_6
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 658
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acfdd6c705715a7c0800000000000000
+      internalID: -4060813854552236086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_7
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 658
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864d18eae49e34d70800000000000000
+      internalID: 9026314602325070952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_8
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 656
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f165ec80f62bfe2c0800000000000000
+      internalID: -4400102120958831073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_9
+      rect:
+        serializedVersion: 2
+        x: 2242
+        y: 652
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e33d530281455e620800000000000000
+      internalID: 2802738805704348478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_10
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 655
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a21d358c06ea81e0800000000000000
+      internalID: -2194688926940327263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_11
+      rect:
+        serializedVersion: 2
+        x: 2267
+        y: 649
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb1e286621205630800000000000000
+      internalID: 3913664525025287113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_12
+      rect:
+        serializedVersion: 2
+        x: 2284
+        y: 651
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66019fbe9b1e9870800000000000000
+      internalID: 8691414699504371311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_13
+      rect:
+        serializedVersion: 2
+        x: 2292
+        y: 650
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8286f5f505796390800000000000000
+      internalID: -7824594209117666678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_14
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 643
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ed3050594560450800000000000000
+      internalID: 6054619748057210522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_15
+      rect:
+        serializedVersion: 2
+        x: 2231
+        y: 641
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1073470dc3e7c3360800000000000000
+      internalID: 7150729108017919745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_16
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 616
+        width: 55
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e6b30a636a77120800000000000000
+      internalID: 2411578879026884145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_17
+      rect:
+        serializedVersion: 2
+        x: 2261
+        y: 649
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3341cba58e62ce20800000000000000
+      internalID: 3369376991617827646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_18
+      rect:
+        serializedVersion: 2
+        x: 2286
+        y: 637
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267deaedb5614da20800000000000000
+      internalID: 3086116228489467746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_19
+      rect:
+        serializedVersion: 2
+        x: 2312
+        y: 638
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70a1721d7cef3ce0800000000000000
+      internalID: -1423158935301283713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_20
+      rect:
+        serializedVersion: 2
+        x: 2337
+        y: 621
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1ce3368628cab20800000000000000
+      internalID: 3147033624478400943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_21
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 578
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a97fe29e15feb00800000000000000
+      internalID: 859996115808262724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_22
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 633
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 456a822a4ab0814c0800000000000000
+      internalID: -4316687441111505324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_23
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 632
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7597509324ffcb10800000000000000
+      internalID: 2004088792785851774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_24
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 567
+        width: 86
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216587d184f957f90800000000000000
+      internalID: -6956478917322975726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_25
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 638
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad24ba2767b003320800000000000000
+      internalID: 2535539193567462106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_26
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 544
+        width: 87
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19facb80fd3f9fe60800000000000000
+      internalID: 7996690752622866321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_27
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 624
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c51f70d167f54a90800000000000000
+      internalID: -7330180818993736251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_28
+      rect:
+        serializedVersion: 2
+        x: 2235
+        y: 632
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e0fd8600e9a60cb0800000000000000
+      internalID: -4898040765071101719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_29
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 637
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7306309d392a08c20800000000000000
+      internalID: 3206741690572562487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_30
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 625
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 422a13208bad477f0800000000000000
+      internalID: -615626765197270492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_31
+      rect:
+        serializedVersion: 2
+        x: 2319
+        y: 621
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f2431dba23d94a0800000000000000
+      internalID: -6585051366615142584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_32
+      rect:
+        serializedVersion: 2
+        x: 2347
+        y: 634
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b87f9f3b6b36530800000000000000
+      internalID: 3847119390813686604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_33
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 611
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ed310e914e24110800000000000000
+      internalID: 1243807246892392011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_34
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 598
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e50810992098c0f0800000000000000
+      internalID: -1096468001079163422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_35
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 578
+        width: 68
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f923ca05ddc0bbd60800000000000000
+      internalID: 7906927715459805855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_36
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 587
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c94dd44ee539d810800000000000000
+      internalID: 1790521624330324417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_37
+      rect:
+        serializedVersion: 2
+        x: 2234
+        y: 627
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf393e4a3608d1080800000000000000
+      internalID: -9215068097073671172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_38
+      rect:
+        serializedVersion: 2
+        x: 2213
+        y: 616
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a85173871b268f0a0800000000000000
+      internalID: -6847614719051229814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_39
+      rect:
+        serializedVersion: 2
+        x: 2254
+        y: 609
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10aea55e783e69f20800000000000000
+      internalID: 3429178339097242113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_40
+      rect:
+        serializedVersion: 2
+        x: 2286
+        y: 600
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd4dfb90ff939c930800000000000000
+      internalID: 4163923098023744731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_41
+      rect:
+        serializedVersion: 2
+        x: 2294
+        y: 589
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a075689f72dd19790800000000000000
+      internalID: -7524990338599594230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_42
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 620
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcebf751385642540800000000000000
+      internalID: 4982218701454425803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_43
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 601
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42250ff93cd086ca0800000000000000
+      internalID: -6023549367754927580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_44
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 611
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e52d5702406e0310800000000000000
+      internalID: 1373140773102233062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_45
+      rect:
+        serializedVersion: 2
+        x: 2246
+        y: 607
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed282ca52a23e66f0800000000000000
+      internalID: -689558020052319522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_46
+      rect:
+        serializedVersion: 2
+        x: 2262
+        y: 602
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5237e7e55186f1d0800000000000000
+      internalID: -3317321869548899750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_47
+      rect:
+        serializedVersion: 2
+        x: 2265
+        y: 611
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b31f27c22bf44b20800000000000000
+      internalID: 3117892968836436915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_48
+      rect:
+        serializedVersion: 2
+        x: 2277
+        y: 606
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cdf862db9cbd9dc0800000000000000
+      internalID: -3630538347154702906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_49
+      rect:
+        serializedVersion: 2
+        x: 2327
+        y: 600
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e9ed8202fa5f4c0800000000000000
+      internalID: -4254301720322072932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_50
+      rect:
+        serializedVersion: 2
+        x: 2341
+        y: 609
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2cc15061e934ee90800000000000000
+      internalID: -6997404280880509905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_51
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 592
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db1cbc4ce3b10a10800000000000000
+      internalID: 1873976747443887060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_52
+      rect:
+        serializedVersion: 2
+        x: 2242
+        y: 592
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e695422c96e40e850800000000000000
+      internalID: 6404204886256540014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_53
+      rect:
+        serializedVersion: 2
+        x: 2246
+        y: 581
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24bb52f17c1a35b70800000000000000
+      internalID: 8886624366325250882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_54
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 597
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddddcdb7d2e6cb590800000000000000
+      internalID: -7657124124806029859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_55
+      rect:
+        serializedVersion: 2
+        x: 2274
+        y: 590
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8c575ecf2076130800000000000000
+      internalID: 3559817315664382132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_56
+      rect:
+        serializedVersion: 2
+        x: 2281
+        y: 587
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a9467dc6dd02360800000000000000
+      internalID: 7142952468549507671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_57
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 574
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a7eca77d160be8d0800000000000000
+      internalID: -2816150418358474841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_58
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 582
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94464d83d3a24d610800000000000000
+      internalID: 1644986206331888713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_59
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 574
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab50ad5db4d04e150800000000000000
+      internalID: 5900856031123735994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_60
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 578
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b15724741f48ff0800000000000000
+      internalID: -34637608752178344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_61
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 583
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98140efdd0c07b0b0800000000000000
+      internalID: -5713084348566060663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_62
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 582
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742410e143d7668b0800000000000000
+      internalID: -5159298660311154105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_63
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 559
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155fb67b69e61db10800000000000000
+      internalID: 2004504902758036817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_64
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 572
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f2522d792e72890800000000000000
+      internalID: -7482763114159198447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_65
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 547
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b6a4aa816162380800000000000000
+      internalID: -8996478910433956990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_66
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 562
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f7986627dc920520800000000000000
+      internalID: 2666866377233045493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_67
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 563
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96b1b9e1d147d030800000000000000
+      internalID: 3519354003638040220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_68
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 571
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c7a9450d9e45800800000000000000
+      internalID: 600361731328998461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_69
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 571
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2771f439ef3735a0800000000000000
+      internalID: -6541689662884186323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_70
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 572
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21bf67be743e16500800000000000000
+      internalID: 387840940963199762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_71
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 566
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c80c0fd5d91c4470800000000000000
+      internalID: 8380101412990486723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_72
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 549
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a8d3404ed962b60800000000000000
+      internalID: 7721032213822540335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_73
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 548
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4903094f85fb15ed0800000000000000
+      internalID: -2426948335394869100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_74
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 556
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 591c577f0e57fc870800000000000000
+      internalID: 8705306213815271829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_75
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 560
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f297b8c8933b4930800000000000000
+      internalID: 4128450214710711032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_76
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 548
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462401c13ea2d7610800000000000000
+      internalID: 1620498595840016996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_77
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 551
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421496bd544251ec0800000000000000
+      internalID: -3596928844933021404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_78
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 559
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 545b459c57d356ed0800000000000000
+      internalID: -2421461648543533755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_79
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 557
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6303181f416e34420800000000000000
+      internalID: 2613185186430529590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_80
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 555
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 376818fb4f2e6d220800000000000000
+      internalID: 2510443383118464627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_81
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 558
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6529682dd8e9c44f0800000000000000
+      internalID: -843124698265513386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_82
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 556
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602bdf67ddd594a00800000000000000
+      internalID: 741226819444650502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_83
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 541
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ebcca27fb3f46f90800000000000000
+      internalID: -6961171120419714071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_84
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 545
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7269da8951d175f20800000000000000
+      internalID: 3411227221349471783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_85
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 547
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95483760916cd830800000000000000
+      internalID: 4097257033835234714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_86
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 552
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc3d9538925244a0800000000000000
+      internalID: -6610630489338463016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_87
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 543
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de5657f1e7217390800000000000000
+      internalID: -7822427226295083312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Blasting-16_88
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 24
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4e953924cdf6d70800000000000000
+      internalID: 9038685155653969130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Magic_Blasting-16_0: -95652479185689099
+      Magic_Blasting-16_1: -5732867455409718253
+      Magic_Blasting-16_10: -2194688926940327263
+      Magic_Blasting-16_11: 3913664525025287113
+      Magic_Blasting-16_12: 8691414699504371311
+      Magic_Blasting-16_13: -7824594209117666678
+      Magic_Blasting-16_14: 6054619748057210522
+      Magic_Blasting-16_15: 7150729108017919745
+      Magic_Blasting-16_16: 2411578879026884145
+      Magic_Blasting-16_17: 3369376991617827646
+      Magic_Blasting-16_18: 3086116228489467746
+      Magic_Blasting-16_19: -1423158935301283713
+      Magic_Blasting-16_2: 5651661257497592706
+      Magic_Blasting-16_20: 3147033624478400943
+      Magic_Blasting-16_21: 859996115808262724
+      Magic_Blasting-16_22: -4316687441111505324
+      Magic_Blasting-16_23: 2004088792785851774
+      Magic_Blasting-16_24: -6956478917322975726
+      Magic_Blasting-16_25: 2535539193567462106
+      Magic_Blasting-16_26: 7996690752622866321
+      Magic_Blasting-16_27: -7330180818993736251
+      Magic_Blasting-16_28: -4898040765071101719
+      Magic_Blasting-16_29: 3206741690572562487
+      Magic_Blasting-16_3: 9018801160134984195
+      Magic_Blasting-16_30: -615626765197270492
+      Magic_Blasting-16_31: -6585051366615142584
+      Magic_Blasting-16_32: 3847119390813686604
+      Magic_Blasting-16_33: 1243807246892392011
+      Magic_Blasting-16_34: -1096468001079163422
+      Magic_Blasting-16_35: 7906927715459805855
+      Magic_Blasting-16_36: 1790521624330324417
+      Magic_Blasting-16_37: -9215068097073671172
+      Magic_Blasting-16_38: -6847614719051229814
+      Magic_Blasting-16_39: 3429178339097242113
+      Magic_Blasting-16_4: 1524540273029159316
+      Magic_Blasting-16_40: 4163923098023744731
+      Magic_Blasting-16_41: -7524990338599594230
+      Magic_Blasting-16_42: 4982218701454425803
+      Magic_Blasting-16_43: -6023549367754927580
+      Magic_Blasting-16_44: 1373140773102233062
+      Magic_Blasting-16_45: -689558020052319522
+      Magic_Blasting-16_46: -3317321869548899750
+      Magic_Blasting-16_47: 3117892968836436915
+      Magic_Blasting-16_48: -3630538347154702906
+      Magic_Blasting-16_49: -4254301720322072932
+      Magic_Blasting-16_5: -3069899628572425268
+      Magic_Blasting-16_50: -6997404280880509905
+      Magic_Blasting-16_51: 1873976747443887060
+      Magic_Blasting-16_52: 6404204886256540014
+      Magic_Blasting-16_53: 8886624366325250882
+      Magic_Blasting-16_54: -7657124124806029859
+      Magic_Blasting-16_55: 3559817315664382132
+      Magic_Blasting-16_56: 7142952468549507671
+      Magic_Blasting-16_57: -2816150418358474841
+      Magic_Blasting-16_58: 1644986206331888713
+      Magic_Blasting-16_59: 5900856031123735994
+      Magic_Blasting-16_6: -4060813854552236086
+      Magic_Blasting-16_60: -34637608752178344
+      Magic_Blasting-16_61: -5713084348566060663
+      Magic_Blasting-16_62: -5159298660311154105
+      Magic_Blasting-16_63: 2004504902758036817
+      Magic_Blasting-16_64: -7482763114159198447
+      Magic_Blasting-16_65: -8996478910433956990
+      Magic_Blasting-16_66: 2666866377233045493
+      Magic_Blasting-16_67: 3519354003638040220
+      Magic_Blasting-16_68: 600361731328998461
+      Magic_Blasting-16_69: -6541689662884186323
+      Magic_Blasting-16_7: 9026314602325070952
+      Magic_Blasting-16_70: 387840940963199762
+      Magic_Blasting-16_71: 8380101412990486723
+      Magic_Blasting-16_72: 7721032213822540335
+      Magic_Blasting-16_73: -2426948335394869100
+      Magic_Blasting-16_74: 8705306213815271829
+      Magic_Blasting-16_75: 4128450214710711032
+      Magic_Blasting-16_76: 1620498595840016996
+      Magic_Blasting-16_77: -3596928844933021404
+      Magic_Blasting-16_78: -2421461648543533755
+      Magic_Blasting-16_79: 2613185186430529590
+      Magic_Blasting-16_8: -4400102120958831073
+      Magic_Blasting-16_80: 2510443383118464627
+      Magic_Blasting-16_81: -843124698265513386
+      Magic_Blasting-16_82: 741226819444650502
+      Magic_Blasting-16_83: -6961171120419714071
+      Magic_Blasting-16_84: 3411227221349471783
+      Magic_Blasting-16_85: 4097257033835234714
+      Magic_Blasting-16_86: -6610630489338463016
+      Magic_Blasting-16_87: -7822427226295083312
+      Magic_Blasting-16_88: 9038685155653969130
+      Magic_Blasting-16_9: 2802738805704348478
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

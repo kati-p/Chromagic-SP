@@ -1,0 +1,1404 @@
+fileFormatVersion: 2
+guid: ceff9196a6a8088468448675aee356c4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4870052890401873509
+    second: Magic_Defencing-1_0
+  - first:
+      213: 5883389393197374565
+    second: Magic_Defencing-1_1
+  - first:
+      213: 2114976561222687532
+    second: Magic_Defencing-1_2
+  - first:
+      213: 5821548163830706248
+    second: Magic_Defencing-1_3
+  - first:
+      213: -5569228598680401851
+    second: Magic_Defencing-1_4
+  - first:
+      213: 6918555151516283052
+    second: Magic_Defencing-1_5
+  - first:
+      213: 5737363852562492915
+    second: Magic_Defencing-1_6
+  - first:
+      213: 5763287973636868902
+    second: Magic_Defencing-1_7
+  - first:
+      213: 6207908676370241195
+    second: Magic_Defencing-1_8
+  - first:
+      213: 2713731417907756413
+    second: Magic_Defencing-1_9
+  - first:
+      213: -3040496012375555524
+    second: Magic_Defencing-1_10
+  - first:
+      213: -7259245549034699774
+    second: Magic_Defencing-1_11
+  - first:
+      213: 963023371489313559
+    second: Magic_Defencing-1_12
+  - first:
+      213: 9027130045555391261
+    second: Magic_Defencing-1_13
+  - first:
+      213: -7005446197518775354
+    second: Magic_Defencing-1_14
+  - first:
+      213: 8477682448089757278
+    second: Magic_Defencing-1_15
+  - first:
+      213: 7821354273914637702
+    second: Magic_Defencing-1_16
+  - first:
+      213: 3723112119802168523
+    second: Magic_Defencing-1_17
+  - first:
+      213: 2725120819628939550
+    second: Magic_Defencing-1_18
+  - first:
+      213: 8523586676515850170
+    second: Magic_Defencing-1_19
+  - first:
+      213: 5096980165127191407
+    second: Magic_Defencing-1_20
+  - first:
+      213: 2043888247806516424
+    second: Magic_Defencing-1_21
+  - first:
+      213: -3818313570810572333
+    second: Magic_Defencing-1_22
+  - first:
+      213: -6024553177182678349
+    second: Magic_Defencing-1_23
+  - first:
+      213: -1164514639801807290
+    second: Magic_Defencing-1_24
+  - first:
+      213: -7454040827345967272
+    second: Magic_Defencing-1_25
+  - first:
+      213: -1043756464152607040
+    second: Magic_Defencing-1_26
+  - first:
+      213: -1374859502512729257
+    second: Magic_Defencing-1_27
+  - first:
+      213: -5733172606574113497
+    second: Magic_Defencing-1_28
+  - first:
+      213: 8798111700676116748
+    second: Magic_Defencing-1_29
+  - first:
+      213: 7529982789112607391
+    second: Magic_Defencing-1_30
+  - first:
+      213: 3272956352623603063
+    second: Magic_Defencing-1_31
+  - first:
+      213: -4123705693861189234
+    second: Magic_Defencing-1_32
+  - first:
+      213: -2876917536514613535
+    second: Magic_Defencing-1_33
+  - first:
+      213: -8764914404548598958
+    second: Magic_Defencing-1_34
+  - first:
+      213: -4897729118147599652
+    second: Magic_Defencing-1_35
+  - first:
+      213: 4302818119640451476
+    second: Magic_Defencing-1_36
+  - first:
+      213: -6500685034096089856
+    second: Magic_Defencing-1_37
+  - first:
+      213: -4179983552567757330
+    second: Magic_Defencing-1_38
+  - first:
+      213: -5810129459226909684
+    second: Magic_Defencing-1_39
+  - first:
+      213: -7320480379899956705
+    second: Magic_Defencing-1_40
+  - first:
+      213: 4183097562615516307
+    second: Magic_Defencing-1_41
+  - first:
+      213: -5749118471642357379
+    second: Magic_Defencing-1_42
+  - first:
+      213: 5041973159985396796
+    second: Magic_Defencing-1_43
+  - first:
+      213: 793432800791962526
+    second: Magic_Defencing-1_44
+  - first:
+      213: -6325021304292961707
+    second: Magic_Defencing-1_45
+  - first:
+      213: 3511461696131213948
+    second: Magic_Defencing-1_46
+  - first:
+      213: 6575591779918213553
+    second: Magic_Defencing-1_47
+  - first:
+      213: -7636700256109998310
+    second: Magic_Defencing-1_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Magic_Defencing-1_0
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 763
+        width: 139
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b916b36e2b81a6cb0800000000000000
+      internalID: -4870052890401873509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Defencing-1_1
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 892
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c94d84b7ff5a150800000000000000
+      internalID: 5883389393197374565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Defencing-1_2
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 885
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b94ff0af7e95d10800000000000000
+      internalID: 2114976561222687532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Defencing-1_3
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 875
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840f4fb063b4ac050800000000000000
+      internalID: 5821548163830706248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Defencing-1_4
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 846
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54845b6b81026b2b0800000000000000
+      internalID: -5569228598680401851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Defencing-1_5
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 863
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca0b3151145a30060800000000000000
+      internalID: 6918555151516283052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Defencing-1_6
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 865
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd672ba6063f9f40800000000000000
+      internalID: 5737363852562492915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Defencing-1_7
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 852
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b08e670ef4bff40800000000000000
+      internalID: 5763287973636868902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Defencing-1_8
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 832
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba61d1ddc0ce62650800000000000000
+      internalID: 6207908676370241195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Defencing-1_9
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 837
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d753cb85c19a520800000000000000
+      internalID: 2713731417907756413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Defencing-1_10
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 849
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c320d596cfcfdc5d0800000000000000
+      internalID: -3040496012375555524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Defencing-1_11
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 813
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204837062aaf14b90800000000000000
+      internalID: -7259245549034699774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Defencing-1_12
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 822
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713050077a85d5d00800000000000000
+      internalID: 963023371489313559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Defencing-1_13
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 815
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1bb59ad2fec64d70800000000000000
+      internalID: 9027130045555391261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Defencing-1_14
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 792
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb48cfbcc7a7ce90800000000000000
+      internalID: -7005446197518775354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Defencing-1_15
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 752
+        width: 143
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5634f41547c6a570800000000000000
+      internalID: 8477682448089757278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Defencing-1_16
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 799
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d4a27d5480b8c60800000000000000
+      internalID: 7821354273914637702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Defencing-1_17
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 786
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc482cf3fb62ba330800000000000000
+      internalID: 3723112119802168523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Defencing-1_18
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 769
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19110872f291d520800000000000000
+      internalID: 2725120819628939550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Defencing-1_19
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 753
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7caf12cecd94670800000000000000
+      internalID: 8523586676515850170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Defencing-1_20
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 744
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b3e99847c1cb640800000000000000
+      internalID: 5096980165127191407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Defencing-1_21
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 693
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc5a1b48895d5c10800000000000000
+      internalID: 2043888247806516424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Defencing-1_22
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 683
+        width: 58
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d158c2a900a20bc0800000000000000
+      internalID: -3818313570810572333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Defencing-1_23
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 673
+        width: 93
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b253970ecc746ca0800000000000000
+      internalID: -6024553177182678349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Defencing-1_24
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 734
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e0fdeda10d6dfe0800000000000000
+      internalID: -1164514639801807290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Defencing-1_25
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 575
+        width: 83
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 857e8c85c5ded8890800000000000000
+      internalID: -7454040827345967272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Defencing-1_26
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 701
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c68a22a605d381f0800000000000000
+      internalID: -1043756464152607040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Defencing-1_27
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 708
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75398a811948bece0800000000000000
+      internalID: -1374859502512729257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Defencing-1_28
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 685
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d4625d3edaf60b0800000000000000
+      internalID: -5733172606574113497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Defencing-1_29
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 707
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0102053afb291a70800000000000000
+      internalID: 8798111700676116748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Defencing-1_30
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 668
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92bcdd737fdf7860800000000000000
+      internalID: 7529982789112607391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Defencing-1_31
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 671
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77dec7b3670eb6d20800000000000000
+      internalID: 3272956352623603063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Defencing-1_32
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 686
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89e52f0587a5c6c0800000000000000
+      internalID: -4123705693861189234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Defencing-1_33
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 657
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee54fb3eb22318d0800000000000000
+      internalID: -2876917536514613535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Defencing-1_34
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 639
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2532d2e99c4cc5680800000000000000
+      internalID: -8764914404548598958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Defencing-1_35
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 640
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2a9baf055c70cb0800000000000000
+      internalID: -4897729118147599652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Defencing-1_36
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 655
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4998842584ea6bb30800000000000000
+      internalID: 4302818119640451476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Defencing-1_37
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 629
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0052102576de8c5a0800000000000000
+      internalID: -6500685034096089856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Defencing-1_38
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 615
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5393efa17bdf5c0800000000000000
+      internalID: -4179983552567757330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Defencing-1_39
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 613
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c046fbb4a064e5fa0800000000000000
+      internalID: -5810129459226909684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Defencing-1_40
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 630
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f12b8da41ed686a90800000000000000
+      internalID: -7320480379899956705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Defencing-1_41
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 605
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c0088f1195d0a30800000000000000
+      internalID: 4183097562615516307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Defencing-1_42
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 598
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d71ee1ec5370730b0800000000000000
+      internalID: -5749118471642357379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Defencing-1_43
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 590
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3cbbff10efa8f540800000000000000
+      internalID: 5041973159985396796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Defencing-1_44
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 586
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e932954bde6d20b00800000000000000
+      internalID: 793432800791962526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Defencing-1_45
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 601
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55217d892a20938a0800000000000000
+      internalID: -6325021304292961707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Defencing-1_46
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 584
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7aaa40eec73bb030800000000000000
+      internalID: 3511461696131213948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Defencing-1_47
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 576
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1f00682e1314b50800000000000000
+      internalID: 6575591779918213553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Defencing-1_48
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 582
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1fcd6af39df40690800000000000000
+      internalID: -7636700256109998310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Magic_Defencing-1_0: -4870052890401873509
+      Magic_Defencing-1_1: 5883389393197374565
+      Magic_Defencing-1_10: -3040496012375555524
+      Magic_Defencing-1_11: -7259245549034699774
+      Magic_Defencing-1_12: 963023371489313559
+      Magic_Defencing-1_13: 9027130045555391261
+      Magic_Defencing-1_14: -7005446197518775354
+      Magic_Defencing-1_15: 8477682448089757278
+      Magic_Defencing-1_16: 7821354273914637702
+      Magic_Defencing-1_17: 3723112119802168523
+      Magic_Defencing-1_18: 2725120819628939550
+      Magic_Defencing-1_19: 8523586676515850170
+      Magic_Defencing-1_2: 2114976561222687532
+      Magic_Defencing-1_20: 5096980165127191407
+      Magic_Defencing-1_21: 2043888247806516424
+      Magic_Defencing-1_22: -3818313570810572333
+      Magic_Defencing-1_23: -6024553177182678349
+      Magic_Defencing-1_24: -1164514639801807290
+      Magic_Defencing-1_25: -7454040827345967272
+      Magic_Defencing-1_26: -1043756464152607040
+      Magic_Defencing-1_27: -1374859502512729257
+      Magic_Defencing-1_28: -5733172606574113497
+      Magic_Defencing-1_29: 8798111700676116748
+      Magic_Defencing-1_3: 5821548163830706248
+      Magic_Defencing-1_30: 7529982789112607391
+      Magic_Defencing-1_31: 3272956352623603063
+      Magic_Defencing-1_32: -4123705693861189234
+      Magic_Defencing-1_33: -2876917536514613535
+      Magic_Defencing-1_34: -8764914404548598958
+      Magic_Defencing-1_35: -4897729118147599652
+      Magic_Defencing-1_36: 4302818119640451476
+      Magic_Defencing-1_37: -6500685034096089856
+      Magic_Defencing-1_38: -4179983552567757330
+      Magic_Defencing-1_39: -5810129459226909684
+      Magic_Defencing-1_4: -5569228598680401851
+      Magic_Defencing-1_40: -7320480379899956705
+      Magic_Defencing-1_41: 4183097562615516307
+      Magic_Defencing-1_42: -5749118471642357379
+      Magic_Defencing-1_43: 5041973159985396796
+      Magic_Defencing-1_44: 793432800791962526
+      Magic_Defencing-1_45: -6325021304292961707
+      Magic_Defencing-1_46: 3511461696131213948
+      Magic_Defencing-1_47: 6575591779918213553
+      Magic_Defencing-1_48: -7636700256109998310
+      Magic_Defencing-1_5: 6918555151516283052
+      Magic_Defencing-1_6: 5737363852562492915
+      Magic_Defencing-1_7: 5763287973636868902
+      Magic_Defencing-1_8: 6207908676370241195
+      Magic_Defencing-1_9: 2713731417907756413
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
